@@ -1,7 +1,7 @@
 [project]
 name = "python-playground"
 version = "0.1.0"
-description = "Add your description here"
+description = "This is where I will learn Python"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
